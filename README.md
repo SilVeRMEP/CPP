@@ -1,1 +1,1 @@
-# CP-in-C-
+# competitive programming using C++
